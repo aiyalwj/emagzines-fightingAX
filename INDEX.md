@@ -18,6 +18,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-09-28 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260928/20260928-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260928/20260928-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20260928) |
 | 2026-09-07 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260907/20260907-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260907/20260907-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20260907) |
 
-_Total issues: 1._
+_Total issues: 2._
