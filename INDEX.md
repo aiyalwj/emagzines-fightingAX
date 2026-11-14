@@ -18,10 +18,11 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261123/20261123-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261123/20261123-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20261123) |
 | 2026-11-09 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261109/20261109-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261109/20261109-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20261109) |
 | 2026-10-26 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261026/20261026-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261026/20261026-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20261026) |
 | 2026-10-12 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261012/20261012-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20261012/20261012-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20261012) |
 | 2026-09-28 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260928/20260928-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260928/20260928-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20260928) |
 | 2026-09-07 | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260907/20260907-TIME-Magazine.pdf) | [Download](https://github.com/aiyalwj/emagzines-fightingAX/releases/download/tm-20260907/20260907-TIME-Magazine.epub) | [View](https://github.com/aiyalwj/emagzines-fightingAX/releases/tag/tm-20260907) |
 
-_Total issues: 5._
+_Total issues: 6._
